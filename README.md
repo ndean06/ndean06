@@ -8,6 +8,8 @@ As an experienced educator with a ton of intrest in cybersecurity,  I've curated
 <h2> Objective</h2>
 To document my cybersecurity journey
 
+<h2> Certifications </h2>
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 - Active Directory Home Lab(https://github.com/)
 
