@@ -6,7 +6,6 @@
 As an experienced educator with a ton of intrest in cybersecurity,  I've curated this page to showcase my projects, contributions, and knowledge in the field.
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-
 - Active Directory Home Lab(https://github.com/)
 
 
