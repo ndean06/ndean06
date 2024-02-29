@@ -1,5 +1,9 @@
 <h1>Hi, I'm Nigel </h1>
-<a href="https://linkedin.com/in/nigeldeanmed/"
+
+<a href="https://www.linkedin.com/in/nigeldeanmed">
+    <img src="images/linkedin-logo.png" alt="LinkedIn" width="50" height="50">
+</a>
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - Active Directory Home Lab(https://github.com/)
