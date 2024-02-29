@@ -2,6 +2,9 @@
 
 <a href="https://linkedin.com/in/nigeldeanmed"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+<h2>Brief Introduction</h2>
+As an experienced educator with a ton of intrest in cybersecurity,  I've curated this page to showcase my projects, contributions, and knowledge in the field.
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - Active Directory Home Lab(https://github.com/)
