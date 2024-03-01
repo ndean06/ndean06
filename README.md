@@ -3,10 +3,10 @@
 <a href="https://linkedin.com/in/nigeldeanmed"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <h2>Brief Introduction</h2>
-As an experienced educator with a ton of intrest in cybersecurity,  I've curated this page to showcase my projects, contributions, and knowledge in the field.
+ An accomplished educator and basketball coach driven by a desire to embark on a new challenge seeking to transition into a cybersecurity career.  
 
 <h2> Objective</h2>
-To document my cybersecurity journey
+I've curated this page to showcase my projects, contributions, skills and document my cybersecurity journey.
 
 <h2> Certifications </h2>
 
@@ -26,14 +26,11 @@ To document my cybersecurity journey
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
 [linkedin]: https://linkedin.com/in/nigeldeanmed/
 
 <!--
