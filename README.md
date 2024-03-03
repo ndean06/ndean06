@@ -1,6 +1,6 @@
 <h1>Hi, I'm Nigel </h1>
 
-<a href="https://linkedin.com/in/nigeldeanmed"><img src="https://github.com/ndean06/ndean06/blob/main/landing-images/li-1-linkedin-logo.png" alt="Alt text for image" width="100" height="100" /></a>
+<a href="https://linkedin.com/in/nigeldeanmed"><img src="https://github.com/ndean06/ndean06/blob/main/landing-images/lpi-1-linkedin-logo.png" alt="Alt text for image" width="100" height="100" /></a>
 
 <h2>Brief Introduction</h2>
  An accomplished educator and basketball coach driven by a desire to embark on a new challenge seeking to transition into a cybersecurity career.  
@@ -10,8 +10,8 @@ I've curated this page to showcase my projects, contributions, skills and docume
 
 <h2> Certifications </h2>
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://github.com/ndean06/ndean06/blob/main/landing-images/lpi-2-A-plus.png" alt="Alt text for image" width="150" height="150" />
+<img src="https://github.com/ndean06/ndean06/blob/main/landing-images/lpi-3-Net-plus.png" alt="Alt text for image" width="150" height="150" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
  
 <h2>👨‍💻 Cybersecurity Projects:</h2>
