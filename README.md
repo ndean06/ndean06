@@ -1,6 +1,6 @@
 <h1>Hi, I'm Nigel </h1>
 
-<a href="https://linkedin.com/in/nigeldeanmed"><img src="https://github.com/ndean06/ndean06/blob/main/landing-images/li-1-linkedin-logo.png" /></a>
+<a href="https://linkedin.com/in/nigeldeanmed"><img src="https://github.com/ndean06/ndean06/blob/main/landing-images/li-1-linkedin-logo.png alt=Alt text for image" width="200" height="200"" /></a>
 
 <h2>Brief Introduction</h2>
  An accomplished educator and basketball coach driven by a desire to embark on a new challenge seeking to transition into a cybersecurity career.  
