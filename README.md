@@ -12,7 +12,7 @@ I've curated this page to showcase my projects, contributions, skills and docume
 <div>
 <img src="https://github.com/ndean06/ndean06/blob/main/landing-images/lpi-2-A-plus.png" alt="Alt text for image" width="150" height="150" />
 <img src="https://github.com/ndean06/ndean06/blob/main/landing-images/lpi-3-net-plus.png" alt="Alt text for image" width="150" height="150" />
-
+<img src="https://github.com/ndean06/ndean06/blob/main/landing-images/lpi-4-sec-plus.png" alt="Alt text for image" width="150" height="150" />
  
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
