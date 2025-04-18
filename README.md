@@ -16,9 +16,9 @@ I've curated this page to showcase my projects, contributions, skills and docume
  
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- Active Directory Home Lab with Splunk
-- SOC Automation
-- Vulnerability Scanning with OpenVAS
+- Threat Hunting at Scale with PowerShell Remoting
+  
+  
   
 <h2>📺 Videos</h2>
 
