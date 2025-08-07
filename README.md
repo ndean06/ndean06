@@ -1,47 +1,107 @@
-<h1>Hi, I'm Nigel </h1>
+# 👨‍💻 Nigel Dean | Cybersecurity Professional  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nigeldeanmed-blue)](https://linkedin.com/in/nigeldeanmed)  
 
-<a href="https://linkedin.com/in/nigeldeanmed"><img src="https://github.com/ndean06/ndean06/blob/main/landing-images/lpi-1-linkedin-logo.png" alt="Alt text for image" width="100" height="100" /></a>
+---
 
-<h2>Brief Introduction</h2>
- An accomplished educator and basketball coach driven by a desire to embark on a new challenge seeking to transition into a cybersecurity career.  
+## 👋 Brief Introduction  
+I’m a GIAC-certified cybersecurity professional with a background in education and program leadership. I specialize in threat detection, incident response, and SOC automation. With hands-on experience using industry-standard tools and a proven ability to translate complex concepts for various audiences, I bring a powerful blend of technical skill and communication to the blue team.  
 
-<h2> Objective</h2>
-I've curated this page to showcase my projects, contributions, skills and document my cybersecurity journey.
+---
 
-<h2> Certifications </h2>
-<div>
-<img src="https://github.com/ndean06/ndean06/blob/main/landing-images/lpi-2-A-plus.png" alt="Alt text for image" width="150" height="150" />
-<img src="https://github.com/ndean06/ndean06/blob/main/landing-images/lpi-3-net-plus.png" alt="Alt text for image" width="150" height="150" />
-<img src="https://github.com/ndean06/ndean06/blob/main/landing-images/lpi-4-sec-plus.png" alt="Alt text for image" width="150" height="150" />
- 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+## 🎯 Objective  
+To leverage my hands-on cybersecurity training, practical experience, and leadership background in a Security Operations Center (SOC) role—strengthening detection capabilities, automating workflows, and contributing to a resilient security posture.  
 
-- Threat Hunting at Scale with PowerShell Remoting
-  
-  
-  
-<h2>📺 Videos</h2>
+---
 
+## 💡 Skills  
+- **Threat Detection & Response**  
+- **Log & Network Traffic Analysis**  
+- **SOC Automation & Scripting**  
+- **SIEM Query Development (SPL)**  
+- **Incident Handling & MITRE ATT&CK Mapping**  
+- **Technical Documentation & Reporting**  
+- **Communication & Team Leadership**
 
-<h2> 🤳 Connect with me:</h2>
+---
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## 🔧 Tools
 
+### 🔐 **Network Security & Monitoring**
+- Zeek
+- Tcpdump
+- Wireshark
+- Nmap
+- InSSIDer
 
+### 🖥️ **Endpoint Security & Detection**
+- Sysmon
+- Process Hacker
+- Seatbelt
+- SilkETW
+- Windows Event Viewer
 
-[linkedin]: https://linkedin.com/in/nigeldeanmed/
+### 🛠️ **Threat Detection, SOC & Automation**
+- Splunk (SPL)
+- Elastic Stack (ELK)
+- Wazuh
+- Shuffle (SOAR)
+- PowerShell
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔍 **Vulnerability Management**
+- Nessus
+- Tenable.sc
+- John the Ripper
 
-Here are some ideas to get you started:
+### 💻 **Operating Systems**
+- Windows Server
+- Windows 10/11
+- Linux (Ubuntu, Kali)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 **Scripting & Languages**
+- PowerShell
+- Python (Basic)
+
+### 📊 **Other Tools**
+- Microsoft Excel (SOC data analysis and visualization)
+
+---
+
+## 🎓 Certifications
+- **GIAC Security Essentials (GSEC)**  
+- **GIAC Foundational Cybersecurity Technologies (GFACT)**  
+- **CompTIA CySA+, Security+, Network+, A+**
+
+---
+
+## 🚀 Projects
+
+### 🔸 SOC Automation Framework  
+**Stack:** ELK Stack, Wazuh, PowerShell, Shuffle  
+- Built and deployed a lab SOC framework to reduce alert triage time by over 40%.  
+- Automated detection workflows and repetitive incident response actions.
+
+### 🔸 Threat Hunting with PowerShell  
+**Stack:** PowerShell, Windows Event Logs, Sysmon  
+- Detected rogue admin accounts and IOCs using custom scripts.  
+- Reduced manual triage time by 50% through automated investigations.
+
+### 🔸 Splunk Detection Engineering  
+**Stack:** Splunk, Windows Logs, Sysmon  
+- Tuned and created SPL queries to detect lateral movement, suspicious logons, and persistence.  
+- Correlated across 3+ log sources and mapped results to MITRE ATT&CK.
+
+### 🔸 Malware Detection Using Zeek & ELK  
+**Stack:** Zeek, Elastic Stack  
+- Identified Command & Control traffic and malware persistence techniques.  
+- Created threat hunt reports with ATT&CK mapping and detection recommendations.
+
+### 🔸 Home Lab  
+- Used tcpdump, John the Ripper, and Metasploit in a Kali/Ubuntu lab to identify and exploit 6+ vulnerabilities.  
+- Recommended remediations and documented findings with screenshots and step-by-step analysis.
+
+---
+
+> 💬 *“Cybersecurity isn't just about tools—it's about insight, communication, and curiosity.”*  
+
+Check out my repositories to explore projects, detection logic, scripts, and playbooks.
+
