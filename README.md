@@ -67,6 +67,7 @@ To leverage my hands-on cybersecurity training, practical experience, and leader
 ---
 
 ## 🎓 Certifications
+- **GIAC Hacker Tools Techniques, and Incident Handling (GCIH)** 
 - **GIAC Security Essentials (GSEC)**  
 - **GIAC Foundational Cybersecurity Technologies (GFACT)**  
 - **CompTIA CySA+, Security+, Network+, A+**
