@@ -36,8 +36,6 @@ To leverage my hands-on cybersecurity training, practical experience, and leader
 ### 🖥️ **Endpoint Security & Detection**
 - Sysmon
 - Process Hacker
-- Seatbelt
-- SilkETW
 - Windows Event Viewer
 
 ### 🛠️ **Threat Detection, SOC & Automation**
