@@ -81,7 +81,14 @@ Seeking to leverage SOC analysis and detection engineering skills to contribute 
 
 ## 🚀 Projects
 
-### 🔸 Home Lab: Splunk + Sysmon Detecting Suspicious Processes  
+### 🛡️ Endpoint Detection Lab with Splunk & Sysmon
+
+- Configured Sysmon on a Windows 10 VM to capture detailed endpoint telemetry and log process execution, network connections, and registry events.
+- Integrated Sysmon logs into Splunk Enterprise, creating a dedicated index=endpoint for real-time monitoring and correlation.
+- Simulated a reverse TCP shell attack from Kali Linux using Metasploit to generate malicious activity for detection testing.
+- Developed SPL queries to identify suspicious parent-child process chains (e.g., Resume.pdf.exe → cmd.exe → powershell.exe) and anomalous network activity.
+- Reconstructed the attack timeline by correlating Sysmon telemetry with Splunk visualizations, demonstrating effective incident investigation workflows.
+- Documented detection logic and findings, highlighting how SOC teams can detect and investigate endpoint intrusions using free, open-source tools.
 
 ---
 
