@@ -8,15 +8,14 @@ I’m a GIAC-certified cybersecurity professional with a background in education
 
 ---
 
-## 🎯 Objective  
-To leverage my hands-on cybersecurity training, practical experience, and leadership background in a Security Operations Center (SOC) role—strengthening detection capabilities, automating workflows, and contributing to a resilient security posture.  
+## 🎯 Focus  
+Seeking to leverage SOC analysis and detection engineering skills to contribute to proactive threat detection, automate investigations, and strengthen organizational defenses. 
 
 ---
 
 ## 💡 Skills  
 - **Threat Detection & Response**  
-- **Log & Network Traffic Analysis**  
-- **SOC Automation & Scripting**  
+- **Log & Network Traffic Analysis**   
 - **SIEM Query Development (SPL)**  
 - **Incident Handling & MITRE ATT&CK Mapping**  
 - **Technical Documentation & Reporting**  
@@ -26,30 +25,38 @@ To leverage my hands-on cybersecurity training, practical experience, and leader
 
 ## 🔧 Tools
 
-### 🔐 **Network Security & Monitoring**
+### 🔐 **Network Monitoring & Traffic Analysis**
 - Zeek
+- RITA
 - Tcpdump
 - Wireshark
 - Nmap
-- InSSIDer
+  
 
-### 🖥️ **Endpoint Security & Detection**
+### 🖥️ **Endpoint Detection & Analysis**
 - Sysmon
 - Process Hacker
 - Windows Event Viewer
 
-### 🛠️ **Threat Detection, SOC & Automation**
+### 🛠️ **Threat Detection, SIEM & SOAR**
 - Splunk (SPL)
 - Elastic Stack (ELK)
 - Wazuh
-- Shuffle (SOAR)
-- PowerShell
 
-### 🔍 **Vulnerability Management**
+### 🔍 **Vulnerability Management & Exploitation**
 - Nessus
 - Tenable.sc
-- John the Ripper
+- Metasploit
+- Hashcat
 
+### Incident Handling & Forensics
+- Volatility
+- Autopsy
+- FTK Imager
+- hping3
+- netcat
+- nmap NSE scripts
+  
 ### 💻 **Operating Systems**
 - Windows Server
 - Windows 10/11
@@ -68,35 +75,13 @@ To leverage my hands-on cybersecurity training, practical experience, and leader
 - **GIAC Hacker Tools Techniques, and Incident Handling (GCIH)** 
 - **GIAC Security Essentials (GSEC)**  
 - **GIAC Foundational Cybersecurity Technologies (GFACT)**  
-- **CompTIA CySA+, Security+, Network+, A+**
+- **CompTIA: CySA+, Security+, Network+, A+**
 
 ---
 
 ## 🚀 Projects
 
-### 🔸 SOC Automation Framework  
-**Stack:** ELK Stack, Wazuh, PowerShell, Shuffle  
-- Built and deployed a lab SOC framework to reduce alert triage time by over 40%.  
-- Automated detection workflows and repetitive incident response actions.
-
-### 🔸 Threat Hunting with PowerShell  
-**Stack:** PowerShell, Windows Event Logs, Sysmon  
-- Detected rogue admin accounts and IOCs using custom scripts.  
-- Reduced manual triage time by 50% through automated investigations.
-
-### 🔸 Splunk Detection Engineering  
-**Stack:** Splunk, Windows Logs, Sysmon  
-- Tuned and created SPL queries to detect lateral movement, suspicious logons, and persistence.  
-- Correlated across 3+ log sources and mapped results to MITRE ATT&CK.
-
-### 🔸 Malware Detection Using Zeek & ELK  
-**Stack:** Zeek, Elastic Stack  
-- Identified Command & Control traffic and malware persistence techniques.  
-- Created threat hunt reports with ATT&CK mapping and detection recommendations.
-
-### 🔸 Home Lab  
-- Used tcpdump, John the Ripper, and Metasploit in a Kali/Ubuntu lab to identify and exploit 6+ vulnerabilities.  
-- Recommended remediations and documented findings with screenshots and step-by-step analysis.
+### 🔸 Home Lab: Splunk + Sysmon Detecting Suspicious Processes  
 
 ---
 
