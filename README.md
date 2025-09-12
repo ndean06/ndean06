@@ -6,7 +6,7 @@ I’m a GIAC-certified cybersecurity professional with a background in education
 ## Objective
 Seeking to leverage SOC analysis and detection engineering skills to contribute to proactive threat detection, automate investigations, and strengthen organizational defenses. 
 
-## 💡 Skills  
+## Skills  
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM & Log Analysis         | <a href="https://google.com">Endpoint Detection Lab</a>|
@@ -16,9 +16,9 @@ Seeking to leverage SOC analysis and detection engineering skills to contribute 
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-## 🔧 Tools
+## Tools
 
-### 🌐 Network
+### Network
 <div>
     <a href="https://zeek.org/" target="_blank">
         <img src="https://img.shields.io/badge/Zeek-5B3F92?style=for-the-badge&logo=apache&logoColor=white&labelColor=3B275D&height=40" />
@@ -37,7 +37,7 @@ Seeking to leverage SOC analysis and detection engineering skills to contribute 
     </a>
 </div>
 
-## 🖥️ Endpoint
+## Endpoint
 <div>
     <a href="https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon" target="_blank">
         <img src="https://img.shields.io/badge/Sysmon-4B0082?style=for-the-badge&logo=windows&logoColor=white&labelColor=2E0854&height=40" />
@@ -50,7 +50,7 @@ Seeking to leverage SOC analysis and detection engineering skills to contribute 
     </a>
 </div>
 
-## 🛠️ SIEM & SOAR
+## SIEM & SOAR
 <div>
     <a href="https://www.splunk.com/" target="_blank">
         <img src="https://img.shields.io/badge/Splunk%20(SPL)-000000?style=for-the-badge&logo=splunk&logoColor=white&labelColor=333333&height=40" />
@@ -63,7 +63,7 @@ Seeking to leverage SOC analysis and detection engineering skills to contribute 
     </a>
 </div>
 
-## 🔍 Vulnerability Management & Exploitation
+## Vulnerability Management & Exploitation
 <div>
     <a href="https://www.tenable.com/products/nessus" target="_blank">
         <img src="https://img.shields.io/badge/Nessus-1E90FF?style=for-the-badge&logo=tenable&logoColor=white&labelColor=003366&height=40" />
@@ -79,7 +79,7 @@ Seeking to leverage SOC analysis and detection engineering skills to contribute 
     </a>
 </div>
 
-## 🧑‍💻 Incident Handling & Forensics
+## Incident Handling & Forensics
 <div>
     <a href="https://www.volatilityfoundation.org/" target="_blank">
         <img src="https://img.shields.io/badge/Volatility-4682B4?style=for-the-badge&logo=python&logoColor=white&labelColor=1C2833&height=40" />
@@ -101,7 +101,7 @@ Seeking to leverage SOC analysis and detection engineering skills to contribute 
     </a>
 </div>
 
-## 💻 Operating Systems
+## Operating Systems
 <div>
     <a href="https://www.microsoft.com/en-us/windows-server" target="_blank">
         <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=0B3D91&height=40" />
@@ -117,7 +117,7 @@ Seeking to leverage SOC analysis and detection engineering skills to contribute 
     </a>
 </div>
 
-## 🧠 Scripting & Languages
+## Scripting & Languages
 <div>
     <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank">
         <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white&labelColor=0B3D91&height=40" />
@@ -127,7 +127,7 @@ Seeking to leverage SOC analysis and detection engineering skills to contribute 
     </a>
 </div>
 
-## 🎓 Certifications
+## Certifications
 <div>
     <a href="https://www.giac.org/certifications/certified-incident-handler-gcih/" target="_blank">
         <img src="https://img.shields.io/badge/GIAC%20GCIH-Hacker%20Tools%20%26%20Incident%20Handling-FF6F00?style=for-the-badge&logo=giac&logoColor=white&labelColor=8B2500&height=40" />
