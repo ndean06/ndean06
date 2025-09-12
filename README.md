@@ -1,5 +1,4 @@
 # 👨‍💻 Nigel Dean | Cybersecurity Professional  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nigeldeanmed-blue)](https://linkedin.com/in/nigeldeanmed)  
 
 ---
 
