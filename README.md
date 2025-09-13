@@ -156,6 +156,6 @@ Seeking to leverage SOC analysis and detection engineering skills to contribute 
 </div>
 
 ## 🚀 Projects
--🛡️ Endpoint Detection Lab
+-🛡️ [Endpoint Detection Lab](https://github.com/ndean06/splunk-sysmon-reverse-shell-detection/blob/main/README.md)
 
 
