@@ -9,7 +9,7 @@ Seeking to leverage SOC analysis and detection engineering skills to contribute 
 ## Skills  
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM & Log Analysis         | <a href="https://google.com">Endpoint Detection Lab</a>|
+| SIEM & Log Analysis         | <a href="https://github.com/ndean06/splunk-sysmon-reverse-shell-detection/blob/main/README.md">Endpoint Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
