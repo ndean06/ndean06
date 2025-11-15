@@ -7,14 +7,14 @@ I’m a GIAC-certified cybersecurity professional with a background in education
 Seeking to leverage SOC analysis and detection engineering skills to contribute to proactive threat detection, automate investigations, and strengthen organizational defenses. 
 
 ## Skills  
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM & Log Analysis         | <a href="https://github.com/ndean06/splunk-sysmon-reverse-shell-detection/blob/main/README.md">Endpoint Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill                                             | Associated Project         |
+|---------------------------------------------------|----------------------------|
+| Endpoint Detection & Incident Analysis            | <a href="https://github.com/ndean06/splunk-sysmon-reverse-shell-detection/blob/main/README.md">Endpoint Detection Lab</a>|
+| Cloud Security Monitoring & Incident Response     | <a href="https://github.com/ndean06/Microsoft-30Day-SOC-Challenge">Microsoft 30-Day SOC Challenge</a>|
+| Host-Based Forensics & Lateral Movement Detection | <a href="https://github.com/ndean06/alpha-linux-audit-log">Linux Network Lateral Movement Lab</a>|
+| Security Automation & EDR Response                | <a href="https://github.com/ndean06/soar-edr-incident-response">SOAR + EDR Automation Lab</a>|
+| Enterprise Threat Hunting & Remote Investigation  | <a href="https://github.com/ndean06/PowerShell-Remoting-Threat-Hunt">PowerShell Remoting Threat Hunting Lab</a>|
+
 
 ## Tools
 
