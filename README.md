@@ -156,7 +156,7 @@ Seeking to leverage SOC analysis and detection engineering skills to contribute 
 </div>
 
 ## Projects
-- [Microsoft 30-Day SOC Challenge]
+- [Microsoft 30-Day SOC Challenge](https://github.com/ndean06/Microsoft-30Day-SOC-Challenge/blob/main/README.md)
 - [Endpoint Detection Lab](https://github.com/ndean06/splunk-sysmon-reverse-shell-detection/blob/main/README.md)
 - [Linux Compromise Investigation (auditd + Sysmon)]
 - [SOAR + EDR Automation Lab]
