@@ -128,6 +128,25 @@ Seeking to leverage SOC analysis and detection engineering skills to contribute 
 </div>
 
 ## Certifications
+<p align="left">
+  <a href="https://www.giac.org/certifications/certified-incident-handler-gcih/">
+    <img src="landing-images/gcih.png" width="160" />
+  </a>
+  <a href="https://www.giac.org/certifications/security-essentials-gsec/">
+    <img src="landing-images/gsec.png" width="160" />
+  </a>
+  <a href="https://www.giac.org/certifications/foundational-cybersecurity-technologies-gfact/">
+    <img src="landing-images/giac.png" width="160" />
+  </a>
+  <a href="https://www.comptia.org/certifications/security">
+    <img src="landing-images/sec-plus.png" width="160" />
+  </a>
+</p>
+
+
+
+
+## Certifications
 <div>
     <a href="https://www.giac.org/certifications/certified-incident-handler-gcih/" target="_blank">
         <img src="https://img.shields.io/badge/GIAC%20GCIH-Hacker%20Tools%20%26%20Incident%20Handling-FF6F00?style=for-the-badge&logo=giac&logoColor=white&labelColor=8B2500&height=40" />
