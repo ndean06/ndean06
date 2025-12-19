@@ -128,6 +128,7 @@ Seeking to leverage SOC analysis and detection engineering skills to contribute 
 </div>
 
 ## Certifications
+
 <a href="https://www.giac.org/certifications/certified-incident-handler-gcih/">
   <img src="landing-images/gcih.png" width="160" />
 </a>
@@ -137,6 +138,9 @@ Seeking to leverage SOC analysis and detection engineering skills to contribute 
 <a href="https://www.giac.org/certifications/foundational-cybersecurity-technologies-gfact/">
   <img src="landing-images/giac.png" width="160" />
 </a>
+
+<br>
+
 <a href="https://www.comptia.org/certifications/security">
   <img src="landing-images/sec-plus.png" width="160" />
 </a>
@@ -146,38 +150,6 @@ Seeking to leverage SOC analysis and detection engineering skills to contribute 
 <a href="https://www.comptia.org/certifications/network">
   <img src="landing-images/net-plus.png" width="160" />
 </a>
-
-
-
-
-
-## Certifications
-<div>
-    <a href="https://www.giac.org/certifications/certified-incident-handler-gcih/" target="_blank">
-        <img src="https://img.shields.io/badge/GIAC%20GCIH-Hacker%20Tools%20%26%20Incident%20Handling-FF6F00?style=for-the-badge&logo=giac&logoColor=white&labelColor=8B2500&height=40" />
-    </a>
-    <a href="https://www.giac.org/certifications/security-essentials-gsec/" target="_blank">
-        <img src="https://img.shields.io/badge/GIAC%20GSEC-Security%20Essentials-006699?style=for-the-badge&logo=giac&logoColor=white&labelColor=00334D&height=40" />
-    </a>
-    <a href="https://www.giac.org/certifications/foundational-cybersecurity-technologies-gfact/" target="_blank">
-        <img src="https://img.shields.io/badge/GIAC%20GFACT-Foundational%20Cybersecurity-4B0082?style=for-the-badge&logo=giac&logoColor=white&labelColor=2E0854&height=40" />
-    </a>
-</div>
-
-<div>
-    <a href="https://www.comptia.org/certifications/cybersecurity-analyst" target="_blank">
-        <img src="https://img.shields.io/badge/CompTIA-CySA%2B-2E8B57?style=for-the-badge&logo=comptia&logoColor=white&labelColor=145A32&height=40" />
-    </a>
-    <a href="https://www.comptia.org/certifications/security" target="_blank">
-        <img src="https://img.shields.io/badge/CompTIA-Security%2B-CC0000?style=for-the-badge&logo=comptia&logoColor=white&labelColor=660000&height=40" />
-    </a>
-    <a href="https://www.comptia.org/certifications/network" target="_blank">
-        <img src="https://img.shields.io/badge/CompTIA-Network%2B-FF9900?style=for-the-badge&logo=comptia&logoColor=white&labelColor=CC6600&height=40" />
-    </a>
-    <a href="https://www.comptia.org/certifications/a" target="_blank">
-        <img src="https://img.shields.io/badge/CompTIA-A%2B-007ACC?style=for-the-badge&logo=comptia&logoColor=white&labelColor=003366&height=40" />
-    </a>
-</div>
 
 ## Projects
 - [Microsoft 30-Day SOC Challenge](https://github.com/ndean06/Microsoft-30Day-SOC-Challenge)
