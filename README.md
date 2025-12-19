@@ -128,20 +128,25 @@ Seeking to leverage SOC analysis and detection engineering skills to contribute 
 </div>
 
 ## Certifications
-<p align="left">
-  <a href="https://www.giac.org/certifications/certified-incident-handler-gcih/">
-    <img src="landing-images/gcih.png" width="160" />
-  </a>
-  <a href="https://www.giac.org/certifications/security-essentials-gsec/">
-    <img src="landing-images/gsec.png" width="160" />
-  </a>
-  <a href="https://www.giac.org/certifications/foundational-cybersecurity-technologies-gfact/">
-    <img src="landing-images/giac.png" width="160" />
-  </a>
-  <a href="https://www.comptia.org/certifications/security">
-    <img src="landing-images/sec-plus.png" width="160" />
-  </a>
-</p>
+<a href="https://www.giac.org/certifications/certified-incident-handler-gcih/">
+  <img src="landing-images/gcih.png" width="160" />
+</a>
+<a href="https://www.giac.org/certifications/security-essentials-gsec/">
+  <img src="landing-images/gsec.png" width="160" />
+</a>
+<a href="https://www.giac.org/certifications/foundational-cybersecurity-technologies-gfact/">
+  <img src="landing-images/giac.png" width="160" />
+</a>
+<a href="https://www.comptia.org/certifications/security">
+  <img src="landing-images/sec-plus.png" width="160" />
+</a>
+<a href="https://www.comptia.org/certifications/cybersecurity-analyst">
+  <img src="landing-images/cysa-plus.png" width="160" />
+</a>
+<a href="https://www.comptia.org/certifications/network">
+  <img src="landing-images/net-plus.png" width="160" />
+</a>
+
 
 
 
