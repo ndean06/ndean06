@@ -11,7 +11,6 @@ Seeking to leverage SOC analysis and detection engineering skills to contribute 
 |---------------------------------------------------|----------------------------|
 | Endpoint Detection & Incident Analysis            | <a href="https://github.com/ndean06/splunk-sysmon-reverse-shell-detection/blob/main/README.md">Endpoint Detection Lab</a>|
 | Cloud Security Monitoring & Incident Response     | <a href="https://github.com/ndean06/Microsoft-30Day-SOC-Challenge">Microsoft 30-Day SOC Challenge</a>|
-| Host-Based Forensics & Lateral Movement Detection | <a href="https://github.com/ndean06/alpha-linux-audit-log">Linux Network Lateral Movement Lab</a>|
 | Security Automation & EDR Response                | <a href="https://github.com/ndean06/soar-edr-incident-response">SOAR + EDR Automation Lab</a>|
 | Enterprise Threat Hunting & Remote Investigation  | <a href="https://github.com/ndean06/PowerShell-Remoting-Threat-Hunt">PowerShell Remoting Threat Hunting Lab</a>|
 
