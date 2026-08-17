@@ -10,7 +10,7 @@ Seeking to leverage SOC analysis and detection engineering skills to contribute 
 
 | Investigation | Focus Area | Tools Used |
 |---|---|---|
-| [KCD Ransomware: Shadow Copy Deletion](https://github.com/ndean06/soc-investigations/tree/main/soc-simulator-investigations/kcd-ransomware-shadow-copy-deletion) | Ransomware, RDP Access, Recovery Impairment | Splunk, Sysmon, Windows Security Logs, Defender |
+| [KCD Ransomware: Shadow Copy Deletion](https://github.com/ndean06/soc-investigations/tree/main/soc-simulator-investigations/004-kcd-ransomware-shadow-copy-deletion) | Ransomware, RDP Access, Recovery Impairment | Splunk, Sysmon, Windows Security Logs, Defender |
 | [KCD Potential Malware Detected](#) | Malware Triage, Persistence, Defender Response | Splunk, Sysmon, Defender |
 | [KCD Anomalous Process Creation](#) | Suspicious Process Execution, ATT&CK Mapping | Splunk, Sysmon |
 
