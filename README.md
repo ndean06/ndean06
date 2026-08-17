@@ -1,4 +1,4 @@
-# Hello, I'm Nigel Dean | Cybersecurity Professional  
+# Hello, I'm Nigel | Cybersecurity Professional  
 <a href="www.linkedin.com/in/nigeldeanmed"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I’m a GIAC-certified cybersecurity professional who investigates security alerts, analyzes endpoint and network activity, and supports threat detection and incident response using Splunk, Microsoft Sentinel, Defender XDR, and Elastic Stack. My background in education strengthens my communication, problem-solving, and ability to turn technical findings into clear, actionable insights.  
