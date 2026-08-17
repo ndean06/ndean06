@@ -6,13 +6,21 @@ I’m a GIAC-certified cybersecurity professional who investigates security aler
 ## Objective
 Seeking to leverage SOC analysis and detection engineering skills to contribute to proactive threat detection, automate investigations, and strengthen organizational defenses. 
 
-## Skills  
-| Skill                                             | Associated Project         |
-|---------------------------------------------------|----------------------------|
-| Endpoint Detection & Incident Analysis            | <a href="https://github.com/ndean06/splunk-sysmon-reverse-shell-detection/blob/main/README.md">Endpoint Detection Lab</a>|
-| Cloud Security Monitoring & Incident Response     | <a href="https://github.com/ndean06/Microsoft-30Day-SOC-Challenge">Microsoft 30-Day SOC Challenge</a>|
-| Security Automation & EDR Response                | <a href="https://github.com/ndean06/soar-edr-incident-response">SOAR + EDR Automation Lab</a>|
+## Featured Projects
 
+| Project | Focus Area | Skills Demonstrated |
+|---|---|---|
+| [Endpoint Detection Lab](https://github.com/ndean06/splunk-sysmon-reverse-shell-detection/blob/main/README.md) | Endpoint Detection & Incident Analysis | Splunk, Sysmon, Windows Event Logs, Detection Logic |
+| [Microsoft 30-Day SOC Challenge](https://github.com/ndean06/Microsoft-30Day-SOC-Challenge) | Cloud Security Monitoring & Incident Response | Microsoft Sentinel, Defender XDR, Incident Response |
+| [SOAR + EDR Automation Lab](https://github.com/ndean06/soar-edr-incident-response) | Security Automation & EDR Response | SOAR, EDR, Alert Triage, Automated Response |
+
+## Featured SOC Investigations
+
+| Investigation | Focus Area | Tools Used |
+|---|---|---|
+| [KCD Ransomware: Shadow Copy Deletion](https://github.com/ndean06/soc-investigations/tree/main/soc-simulator-investigations/kcd-ransomware-shadow-copy-deletion) | Ransomware, RDP Access, Recovery Impairment | Splunk, Sysmon, Windows Security Logs, Defender |
+| [KCD Potential Malware Detected](#) | Malware Triage, Persistence, Defender Response | Splunk, Sysmon, Defender |
+| [KCD Anomalous Process Creation](#) | Suspicious Process Execution, ATT&CK Mapping | Splunk, Sysmon |
 
 ## Tools
 
