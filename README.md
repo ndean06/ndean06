@@ -62,7 +62,7 @@ Seeking to leverage SOC analysis and detection engineering skills to contribute 
 
 <td align="center" width="120">
   <a href="https://limacharlie.io/">
-    <img src="logos/limacharlie.svg" width="70" height="70" alt="LimaCharlie"><br>
+    <img src="logos/limacharlie.svg" width="90" height="90" alt="LimaCharlie"><br>
     <sub><b>LimaCharlie</b></sub>
   </a>
 </td>
