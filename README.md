@@ -14,6 +14,7 @@ Seeking to leverage SOC analysis and detection engineering skills to contribute 
 | [KCD Nemesys Ransomware: Registry Run-Key Persistence](https://github.com/ndean06/soc-investigations/tree/main/soc-simulator-investigations/005-KCD-Web-Nemesys-Ransomware) | Malware Triage, Registry Run-Key Persistence, Defender Detection | Splunk, Sysmon, Defender | Complete |
 | KCD Anomalous Process Creation | Suspicious Process Execution, ATT&CK Mapping | Splunk, Sysmon | In Progress |
 
+---
 ## Featured Projects
 
 | Project | Focus Area | Skills Demonstrated |
@@ -22,10 +23,10 @@ Seeking to leverage SOC analysis and detection engineering skills to contribute 
 | [Microsoft Cloud SOC: Detection & Incident Response Lab](https://github.com/ndean06/Microsoft-30Day-SOC-Challenge) | Cloud Security Monitoring & Incident Response | Microsoft Sentinel, Defender XDR, Incident Response |
 | [SOAR + EDR Automated Incident Response Workflow](https://github.com/ndean06/soar-edr-incident-response) | Security Automation & EDR Response | SOAR, EDR, Alert Triage, Automated Response |
 
+---
 
 ## Security Stack & Technical Skills
 
----
 
 ### SIEM, EDR & Detection
 
