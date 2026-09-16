@@ -82,21 +82,21 @@ Seeking to leverage SOC analysis and detection engineering skills to contribute 
 <td align="center" width="120">
   <a href="https://n8n.io/">
     <img src="logos/n8n.svg" width="48" height="48" alt="n8n"><br>
-    <sub><b>n8n</b></sub>
+    <b>n8n</b>
   </a>
 </td>
 
 <td align="center" width="120">
   <a href="https://www.dfir-iris.org/">
     <img src="logos/dfir-iris.svg" width="48" height="48" alt="DFIR-IRIS"><br>
-    <sub><b>DFIR-IRIS</b></sub>
+    <b>DFIR-IRIS</b>
   </a>
 </td>
 
 <td align="center" width="120">
   <a href="https://www.docker.com/">
     <img src="logos/docker.svg" width="48" height="48" alt="Docker"><br>
-    <sub><b>Docker</b></sub>
+    <b>Docker</b>
   </a>
 </td>
 
@@ -110,7 +110,7 @@ Seeking to leverage SOC analysis and detection engineering skills to contribute 
 <td align="center" width="120">
   <a href="https://slack.com/">
     <img src="logos/slack.svg" width="48" height="48" alt="Slack"><br>
-    <sub><b>Slack</b></sub>
+    <b>Slack</b>
   </a>
 </td>
 
@@ -129,34 +129,34 @@ Seeking to leverage SOC analysis and detection engineering skills to contribute 
 <td align="center" width="20%">
   <a href="https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon">
     <img src="logos/windows-10.svg" width="48" height="48" alt="Sysmon"><br>
-    <sub><b>Sysmon</b></sub>
+    <b>Sysmon</b>
   </a>
 </td>
 
 <td align="center" width="20%">
   <a href="https://learn.microsoft.com/en-us/sysinternals/downloads/procmon">
     <img src="logos/windows-10.svg" width="48" height="48" alt="Process Monitor"><br>
-    <sub><b>Process Monitor</b></sub>
+    <b>Process Monitor</b>
   </a>
 </td>
 
 <td align="center" width="20%">
   <a href="https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer">
     <img src="logos/windows-10.svg" width="48" height="48" alt="Process Explorer"><br>
-    <sub><b>Process Explorer</b></sub>
+    <b>Process Explorer</b>
   </a>
 </td>
 
 <td align="center" width="20%">
   <a href="https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns">
     <img src="logos/windows-10.svg" width="48" height="48" alt="Autoruns"><br>
-    <sub><b>Autoruns</b></sub>
+    <b>Autoruns</b>
   </a>
 </td>
 
 <td align="center" width="20%">
   <img src="logos/windows-10.svg" width="48" height="48" alt="Windows Event Logs"><br>
-  <sub><b>Windows Event Logs</b></sub>
+  <b>Windows Event Logs</b>
 </td>
 
 </tr>
