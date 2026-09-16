@@ -11,7 +11,7 @@ Seeking to leverage SOC analysis and detection engineering skills to contribute 
 | Investigation | Focus Area | Tools Used | Status |
 |---|---|---|---|
 | [KCD Ransomware: Shadow Copy Deletion](https://github.com/ndean06/soc-investigations/tree/main/soc-simulator-investigations/004-kcd-ransomware-shadow-copy-deletion) | Ransomware, RDP Access, Recovery Impairment | Splunk, Sysmon, Windows Security Logs, Defender |  Complete |
-| KCD Potential Malware Detected | Malware Triage, Persistence, Defender Response | Splunk, Sysmon, Defender | In Progress |
+| [KCD Nemesys Ransomware: Registry Run-Key Persistence](https://github.com/ndean06/soc-investigations/tree/main/soc-simulator-investigations/005-kcd-potential-malware-detected) | Malware Triage, Registry Run-Key Persistence, Defender Detection | Splunk, Sysmon, Defender | Complete |
 | KCD Anomalous Process Creation | Suspicious Process Execution, ATT&CK Mapping | Splunk, Sysmon | In Progress |
 
 ## Featured Projects
