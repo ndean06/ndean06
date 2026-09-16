@@ -22,117 +22,207 @@ Seeking to leverage SOC analysis and detection engineering skills to contribute 
 | [Microsoft Cloud SOC: Detection & Incident Response Lab](https://github.com/ndean06/Microsoft-30Day-SOC-Challenge) | Cloud Security Monitoring & Incident Response | Microsoft Sentinel, Defender XDR, Incident Response |
 | [SOAR + EDR Automated Incident Response Workflow](https://github.com/ndean06/soar-edr-incident-response) | Security Automation & EDR Response | SOAR, EDR, Alert Triage, Automated Response |
 
+## Security Stack & Technical Skills
 
+*Hands-on tools and technologies used across SOC investigations, incident response, threat detection, automation, DFIR, and cybersecurity labs.*
 
+### SIEM, EDR & Detection
 
-## Tools
-
-### Network
-<div>
-    <a href="https://zeek.org/" target="_blank">
-        <img src="https://img.shields.io/badge/Zeek-5B3F92?style=for-the-badge&logo=apache&logoColor=white&labelColor=3B275D&height=40" />
-    </a>
-    <a href="https://www.activecountermeasures.com/free-tools/rita/" target="_blank">
-        <img src="https://img.shields.io/badge/RITA-FF6F61?style=for-the-badge&logo=buffer&logoColor=white&labelColor=B23A48&height=40" />
-    </a>
-    <a href="https://www.tcpdump.org/" target="_blank">
-        <img src="https://img.shields.io/badge/Tcpdump-2D3E50?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=17202A&height=40" />
-    </a>
-    <a href="https://www.wireshark.org/" target="_blank">
-        <img src="https://img.shields.io/badge/Wireshark-1E88E5?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0D47A1&height=40" />
-    </a>
-    <a href="https://nmap.org/" target="_blank">
-        <img src="https://img.shields.io/badge/Nmap-26A69A?style=for-the-badge&logo=linux&logoColor=white&labelColor=004D40&height=40" />
-    </a>
-</div>
-
-## Endpoint
-<div>
-    <a href="https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon" target="_blank">
-        <img src="https://img.shields.io/badge/Sysmon-4B0082?style=for-the-badge&logo=windows&logoColor=white&labelColor=2E0854&height=40" />
-    </a>
-    <a href="https://processhacker.sourceforge.io/" target="_blank">
-        <img src="https://img.shields.io/badge/Process%20Hacker-2E8B57?style=for-the-badge&logo=hackaday&logoColor=white&labelColor=145A32&height=40" />
-    </a>
-    <a href="https://learn.microsoft.com/en-us/windows/security/threat-protection/use-windows-event-viewer" target="_blank">
-        <img src="https://img.shields.io/badge/Windows%20Event%20Viewer-1E90FF?style=for-the-badge&logo=windows10&logoColor=white&labelColor=0D3C61&height=40" />
-    </a>
-</div>
-
-## SIEM & SOAR
 <div>
     <a href="https://www.splunk.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Splunk%20(SPL)-000000?style=for-the-badge&logo=splunk&logoColor=white&labelColor=333333&height=40" />
+        <img src="https://img.shields.io/badge/Splunk%20%7C%20SPL-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+    </a>
+    <a href="https://learn.microsoft.com/en-us/azure/sentinel/" target="_blank">
+        <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+    </a>
+    <a href="https://learn.microsoft.com/en-us/defender-xdr/" target="_blank">
+        <img src="https://img.shields.io/badge/Defender%20XDR-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
     </a>
     <a href="https://www.elastic.co/elastic-stack" target="_blank">
-        <img src="https://img.shields.io/badge/Elastic%20Stack%20(ELK)-005571?style=for-the-badge&logo=elastic&logoColor=white&labelColor=002B36&height=40" />
+        <img src="https://img.shields.io/badge/Elastic%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" />
     </a>
     <a href="https://wazuh.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Wazuh-FF4500?style=for-the-badge&logo=securityscorecard&logoColor=white&labelColor=8B2500&height=40" />
+        <img src="https://img.shields.io/badge/Wazuh-3AABE6?style=for-the-badge" />
+    </a>
+    <a href="https://limacharlie.io/" target="_blank">
+        <img src="https://img.shields.io/badge/LimaCharlie-111827?style=for-the-badge" />
     </a>
 </div>
 
-## Vulnerability Management & Exploitation
+### SOC Automation & Case Management
+
 <div>
-    <a href="https://www.tenable.com/products/nessus" target="_blank">
-        <img src="https://img.shields.io/badge/Nessus-1E90FF?style=for-the-badge&logo=tenable&logoColor=white&labelColor=003366&height=40" />
+    <a href="https://n8n.io/" target="_blank">
+        <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
     </a>
-    <a href="https://www.tenable.com/products/tenable-sc" target="_blank">
-        <img src="https://img.shields.io/badge/Tenable.sc-2C3E50?style=for-the-badge&logo=tenable&logoColor=white&labelColor=17202A&height=40" />
+    <a href="https://docs.dfir-iris.org/" target="_blank">
+        <img src="https://img.shields.io/badge/DFIR--IRIS-283747?style=for-the-badge" />
     </a>
-    <a href="https://www.metasploit.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Metasploit-FF0000?style=for-the-badge&logo=redhat&logoColor=white&labelColor=8B0000&height=40" />
+    <a href="https://www.tines.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Tines-6F5AF7?style=for-the-badge" />
     </a>
-    <a href="https://hashcat.net/hashcat/" target="_blank">
-        <img src="https://img.shields.io/badge/Hashcat-6A5ACD?style=for-the-badge&logo=linux&logoColor=white&labelColor=2F2F4F&height=40" />
+    <a href="https://shuffler.io/" target="_blank">
+        <img src="https://img.shields.io/badge/Shuffle%20SOAR-2C3E50?style=for-the-badge" />
+    </a>
+    <a href="https://www.docker.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    </a>
+    <a href="https://openai.com/" target="_blank">
+        <img src="https://img.shields.io/badge/AI--Assisted%20Triage-412991?style=for-the-badge" />
     </a>
 </div>
 
-## Incident Handling & Forensics
+### Endpoint & Windows Analysis
+
 <div>
-    <a href="https://www.volatilityfoundation.org/" target="_blank">
-        <img src="https://img.shields.io/badge/Volatility-4682B4?style=for-the-badge&logo=python&logoColor=white&labelColor=1C2833&height=40" />
+    <a href="https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon" target="_blank">
+        <img src="https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+    </a>
+    <a href="https://learn.microsoft.com/en-us/sysinternals/downloads/procmon" target="_blank">
+        <img src="https://img.shields.io/badge/Process%20Monitor-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+    </a>
+    <a href="https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer" target="_blank">
+        <img src="https://img.shields.io/badge/Process%20Explorer-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+    </a>
+    <a href="https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns" target="_blank">
+        <img src="https://img.shields.io/badge/Autoruns-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+    </a>
+    <img src="https://img.shields.io/badge/Windows%20Event%20Logs-005A9C?style=for-the-badge&logo=windows11&logoColor=white" />
+</div>
+
+### Network Analysis
+
+<div>
+    <a href="https://www.wireshark.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+    </a>
+    <a href="https://zeek.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Zeek-4B3F72?style=for-the-badge" />
+    </a>
+    <a href="https://www.tcpdump.org/" target="_blank">
+        <img src="https://img.shields.io/badge/tcpdump-2D3E50?style=for-the-badge&logo=linux&logoColor=white" />
+    </a>
+    <a href="https://nmap.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=linux&logoColor=white" />
+    </a>
+    <a href="https://www.activecountermeasures.com/free-tools/rita/" target="_blank">
+        <img src="https://img.shields.io/badge/RITA-8E44AD?style=for-the-badge" />
+    </a>
+</div>
+
+### Threat Intelligence & Enrichment
+
+<div>
+    <a href="https://www.virustotal.com/" target="_blank">
+        <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" />
+    </a>
+    <a href="https://www.abuseipdb.com/" target="_blank">
+        <img src="https://img.shields.io/badge/AbuseIPDB-D32F2F?style=for-the-badge" />
+    </a>
+    <a href="https://urlscan.io/" target="_blank">
+        <img src="https://img.shields.io/badge/urlscan.io-1F2937?style=for-the-badge" />
+    </a>
+    <a href="https://www.shodan.io/" target="_blank">
+        <img src="https://img.shields.io/badge/Shodan-B20000?style=for-the-badge" />
+    </a>
+</div>
+
+### DFIR & Malware Analysis
+
+<div>
+    <a href="https://volatilityfoundation.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Volatility%202%20%7C%203-4682B4?style=for-the-badge&logo=python&logoColor=white" />
+    </a>
+    <a href="https://github.com/ufrisk/MemProcFS" target="_blank">
+        <img src="https://img.shields.io/badge/MemProcFS-34495E?style=for-the-badge" />
+    </a>
+    <a href="https://www.exterro.com/ftk-product-downloads/ftk-imager-version-4-7-1" target="_blank">
+        <img src="https://img.shields.io/badge/FTK%20Imager-556B2F?style=for-the-badge" />
     </a>
     <a href="https://www.autopsy.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Autopsy-708090?style=for-the-badge&logo=forensic-science&logoColor=white&labelColor=2F4F4F&height=40" />
+        <img src="https://img.shields.io/badge/Autopsy-5D6D7E?style=for-the-badge" />
     </a>
-    <a href="https://accessdata.com/product-download/ftk-imager-version-4-2-1" target="_blank">
-        <img src="https://img.shields.io/badge/FTK%20Imager-4B5320?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=2E3B1F&height=40" />
+    <a href="https://github.com/mandiant/flare-vm" target="_blank">
+        <img src="https://img.shields.io/badge/FLARE--VM-B03A2E?style=for-the-badge" />
     </a>
-    <a href="http://www.hping.org/" target="_blank">
-        <img src="https://img.shields.io/badge/hping3-FF8C00?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=8B4500&height=40" />
+    <a href="https://remnux.org/" target="_blank">
+        <img src="https://img.shields.io/badge/REMnux-2E4053?style=for-the-badge&logo=linux&logoColor=white" />
+    </a>
+    <a href="https://sourceforge.net/projects/regshot/" target="_blank">
+        <img src="https://img.shields.io/badge/Regshot-7D3C98?style=for-the-badge" />
+    </a>
+    <a href="https://github.com/horsicq/Detect-It-Easy" target="_blank">
+        <img src="https://img.shields.io/badge/Detect%20It%20Easy-2C3E50?style=for-the-badge" />
+    </a>
+    <a href="https://github.com/mandiant/flare-floss" target="_blank">
+        <img src="https://img.shields.io/badge/FLOSS-C0392B?style=for-the-badge" />
+    </a>
+</div>
+
+### Vulnerability Assessment & Security Testing
+
+<div>
+    <a href="https://www.tenable.com/products/nessus" target="_blank">
+        <img src="https://img.shields.io/badge/Nessus-00A5DF?style=for-the-badge" />
+    </a>
+    <a href="https://www.tenable.com/products/security-center" target="_blank">
+        <img src="https://img.shields.io/badge/Tenable.sc-2C3E50?style=for-the-badge" />
+    </a>
+    <a href="https://www.metasploit.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge" />
+    </a>
+    <a href="https://hashcat.net/hashcat/" target="_blank">
+        <img src="https://img.shields.io/badge/Hashcat-6A5ACD?style=for-the-badge" />
     </a>
     <a href="https://man7.org/linux/man-pages/man1/nc.1.html" target="_blank">
-        <img src="https://img.shields.io/badge/netcat-2F4F4F?style=for-the-badge&logo=linux&logoColor=white&labelColor=1C1C1C&height=40" />
-    </a>
-    <a href="https://nmap.org/book/nse.html" target="_blank">
-        <img src="https://img.shields.io/badge/Nmap%20NSE%20Scripts-26A69A?style=for-the-badge&logo=linux&logoColor=white&labelColor=004D40&height=40" />
+        <img src="https://img.shields.io/badge/Netcat-37474F?style=for-the-badge&logo=linux&logoColor=white" />
     </a>
 </div>
 
-## Operating Systems
+### Frameworks & Investigation Skills
+
 <div>
-    <a href="https://www.microsoft.com/en-us/windows-server" target="_blank">
-        <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=0B3D91&height=40" />
+    <a href="https://attack.mitre.org/" target="_blank">
+        <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-C0392B?style=for-the-badge" />
     </a>
-    <a href="https://www.microsoft.com/en-us/software-download/windows10" target="_blank">
-        <img src="https://img.shields.io/badge/Windows%2010/11-00ADEF?style=for-the-badge&logo=windows11&logoColor=white&labelColor=005A9C&height=40" />
+    <a href="https://www.nist.gov/cyberframework" target="_blank">
+        <img src="https://img.shields.io/badge/NIST%20CSF-1F618D?style=for-the-badge" />
+    </a>
+    <img src="https://img.shields.io/badge/Alert%20Triage-34495E?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Incident%20Investigation-34495E?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/IOC%20Analysis-34495E?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Timeline%20Analysis-34495E?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/ATT%26CK%20Mapping-34495E?style=for-the-badge" />
+</div>
+
+### Operating Systems & Platforms
+
+<div>
+    <a href="https://www.microsoft.com/windows/" target="_blank">
+        <img src="https://img.shields.io/badge/Windows%2010%20%7C%2011-0078D4?style=for-the-badge&logo=windows11&logoColor=white" />
+    </a>
+    <a href="https://www.microsoft.com/windows-server" target="_blank">
+        <img src="https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
     </a>
     <a href="https://ubuntu.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=7F2704&height=40" />
+        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
     </a>
     <a href="https://www.kali.org/" target="_blank">
-        <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0D1B2A&height=40" />
+        <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
     </a>
 </div>
 
-## Scripting & Languages
+### Scripting & Query Languages
+
 <div>
     <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank">
-        <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white&labelColor=0B3D91&height=40" />
+        <img src="https://img.shields.io/badge/PowerShell-2B579A?style=for-the-badge" />
     </a>
     <a href="https://www.python.org/" target="_blank">
-        <img src="https://img.shields.io/badge/Python%20(Basic)-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1E3D59&height=40" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    </a>
+    <a href="https://www.splunk.com/" target="_blank">
+        <img src="https://img.shields.io/badge/SPL-000000?style=for-the-badge&logo=splunk&logoColor=white" />
     </a>
 </div>
 
@@ -159,6 +249,3 @@ Seeking to leverage SOC analysis and detection engineering skills to contribute 
 <a href="https://www.comptia.org/certifications/network">
   <img src="landing-images/net-plus.png" width="160" />
 </a>
-
-
-
