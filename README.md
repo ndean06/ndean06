@@ -31,49 +31,46 @@ Seeking to leverage SOC analysis and detection engineering skills to contribute 
 
 <table>
 <tr>
+
 <td align="center" width="120">
   <a href="https://www.splunk.com/">
-    <img src="https://cdn.simpleicons.org/splunk/000000/FFFFFF" width="48" height="48" alt="Splunk"><br>
+    <img src="logos/splunk.svg" width="48" height="48" alt="Splunk"><br>
     <sub><b>Splunk</b></sub>
   </a>
 </td>
 
 <td align="center" width="120">
   <a href="https://learn.microsoft.com/en-us/azure/sentinel/">
-    <img src="https://raw.githubusercontent.com/Azure/Azure-Sentinel/master/Logos/Azure_Sentinel.svg" width="48" height="48" alt="Microsoft Sentinel"><br>
+    <img src="logos/microsoft-sentinel.svg" width="48" height="48" alt="Microsoft Sentinel"><br>
     <sub><b>Microsoft Sentinel</b></sub>
   </a>
 </td>
 
 <td align="center" width="120">
   <a href="https://learn.microsoft.com/en-us/defender-xdr/">
-    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-defender.svg" width="48" height="48" alt="Defender XDR"><br>
+    <img src="logos/microsoft-defender.svg" width="48" height="48" alt="Microsoft Defender XDR"><br>
     <sub><b>Defender XDR</b></sub>
   </a>
 </td>
 
 <td align="center" width="120">
-  <a href="https://www.elastic.co/">
-    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/elastic.svg" width="48" height="48" alt="Elastic"><br>
-    <sub><b>Elastic Stack</b></sub>
-  </a>
-</td>
-
-<td align="center" width="120">
   <a href="https://wazuh.com/">
-    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wazuh.svg" width="48" height="48" alt="Wazuh"><br>
+    <img src="logos/wazuh.svg" width="48" height="48" alt="Wazuh"><br>
     <sub><b>Wazuh</b></sub>
   </a>
 </td>
 
 <td align="center" width="120">
   <a href="https://limacharlie.io/">
-    <img src="https://github.com/limacharlieio.png" width="48" height="48" alt="LimaCharlie"><br>
+    <img src="logos/limacharlie.svg" width="48" height="48" alt="LimaCharlie"><br>
     <sub><b>LimaCharlie</b></sub>
   </a>
 </td>
+
 </tr>
 </table>
+
+**Additional:** Elastic Stack
 
 ---
 
@@ -81,40 +78,42 @@ Seeking to leverage SOC analysis and detection engineering skills to contribute 
 
 <table>
 <tr>
+
 <td align="center" width="120">
   <a href="https://n8n.io/">
-    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/n8n.svg" width="48" height="48" alt="n8n"><br>
+    <img src="logos/n8n.svg" width="48" height="48" alt="n8n"><br>
     <sub><b>n8n</b></sub>
   </a>
 </td>
 
 <td align="center" width="120">
   <a href="https://www.dfir-iris.org/">
-    <img src="https://github.com/dfir-iris.png" width="48" height="48" alt="DFIR-IRIS"><br>
+    <img src="logos/dfir-iris.svg" width="48" height="48" alt="DFIR-IRIS"><br>
     <sub><b>DFIR-IRIS</b></sub>
   </a>
 </td>
 
 <td align="center" width="120">
   <a href="https://www.docker.com/">
-    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/docker.svg" width="48" height="48" alt="Docker"><br>
+    <img src="logos/docker.svg" width="48" height="48" alt="Docker"><br>
     <sub><b>Docker</b></sub>
   </a>
 </td>
 
 <td align="center" width="120">
   <a href="https://openai.com/">
-    <img src="https://cdn.simpleicons.org/openai/412991/FFFFFF" width="48" height="48" alt="OpenAI"><br>
+    <img src="logos/openai.svg" width="48" height="48" alt="OpenAI"><br>
     <sub><b>AI-Assisted Triage</b></sub>
   </a>
 </td>
 
 <td align="center" width="120">
   <a href="https://slack.com/">
-    <img src="https://cdn.simpleicons.org/slack" width="48" height="48" alt="Slack"><br>
+    <img src="logos/slack.svg" width="48" height="48" alt="Slack"><br>
     <sub><b>Slack</b></sub>
   </a>
 </td>
+
 </tr>
 </table>
 
@@ -129,39 +128,34 @@ Seeking to leverage SOC analysis and detection engineering skills to contribute 
 
 <td align="center" width="20%">
   <a href="https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"
-         width="48" height="48" alt="Sysmon"><br>
+    <img src="logos/windows-10.svg" width="48" height="48" alt="Sysmon"><br>
     <sub><b>Sysmon</b></sub>
   </a>
 </td>
 
 <td align="center" width="20%">
   <a href="https://learn.microsoft.com/en-us/sysinternals/downloads/procmon">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"
-         width="48" height="48" alt="Process Monitor"><br>
+    <img src="logos/windows-10.svg" width="48" height="48" alt="Process Monitor"><br>
     <sub><b>Process Monitor</b></sub>
   </a>
 </td>
 
 <td align="center" width="20%">
   <a href="https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"
-         width="48" height="48" alt="Process Explorer"><br>
+    <img src="logos/windows-10.svg" width="48" height="48" alt="Process Explorer"><br>
     <sub><b>Process Explorer</b></sub>
   </a>
 </td>
 
 <td align="center" width="20%">
   <a href="https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"
-         width="48" height="48" alt="Autoruns"><br>
+    <img src="logos/windows-10.svg" width="48" height="48" alt="Autoruns"><br>
     <sub><b>Autoruns</b></sub>
   </a>
 </td>
 
 <td align="center" width="20%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"
-       width="48" height="48" alt="Windows Event Logs"><br>
+  <img src="logos/windows-10.svg" width="48" height="48" alt="Windows Event Logs"><br>
   <sub><b>Windows Event Logs</b></sub>
 </td>
 
@@ -174,33 +168,35 @@ Seeking to leverage SOC analysis and detection engineering skills to contribute 
 
 <table>
 <tr>
+
 <td align="center" width="120">
   <a href="https://www.wireshark.org/">
-    <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="48" height="48" alt="Wireshark"><br>
+    <img src="logos/wireshark.png" width="48" height="48" alt="Wireshark"><br>
     <sub><b>Wireshark</b></sub>
   </a>
 </td>
 
 <td align="center" width="120">
   <a href="https://www.virustotal.com/">
-    <img src="https://cdn.simpleicons.org/virustotal/394EFF" width="48" height="48" alt="VirusTotal"><br>
+    <img src="logos/virustotal.svg" width="48" height="48" alt="VirusTotal"><br>
     <sub><b>VirusTotal</b></sub>
   </a>
 </td>
 
 <td align="center" width="120">
   <a href="https://www.shodan.io/">
-    <img src="https://cdn.simpleicons.org/shodan/B20000" width="48" height="48" alt="Shodan"><br>
+    <img src="logos/shodan.svg" width="48" height="48" alt="Shodan"><br>
     <sub><b>Shodan</b></sub>
   </a>
 </td>
 
 <td align="center" width="120">
   <a href="https://www.kali.org/">
-    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kali-linux.svg" width="48" height="48" alt="Kali Linux"><br>
+    <img src="logos/kali-linux-wordmark.svg" width="48" height="48" alt="Kali Linux"><br>
     <sub><b>Kali Linux</b></sub>
   </a>
 </td>
+
 </tr>
 </table>
 
@@ -210,37 +206,7 @@ Seeking to leverage SOC analysis and detection engineering skills to contribute 
 
 ### DFIR & Malware Analysis
 
-<table>
-<tr>
-<td align="center" width="120">
-  <a href="https://volatilityfoundation.org/">
-    <img src="https://github.com/volatilityfoundation.png" width="48" height="48" alt="Volatility"><br>
-    <sub><b>Volatility 2/3</b></sub>
-  </a>
-</td>
-
-<td align="center" width="120">
-  <a href="https://github.com/ufrisk/MemProcFS">
-    <img src="https://github.com/ufrisk.png" width="48" height="48" alt="MemProcFS"><br>
-    <sub><b>MemProcFS</b></sub>
-  </a>
-</td>
-
-<td align="center" width="120">
-  <a href="https://github.com/mandiant/flare-vm">
-    <img src="https://github.com/mandiant.png" width="48" height="48" alt="FLARE-VM"><br>
-    <sub><b>FLARE-VM</b></sub>
-  </a>
-</td>
-
-<td align="center" width="120">
-  <a href="https://remnux.org/">
-    <img src="https://github.com/REMnux.png" width="48" height="48" alt="REMnux"><br>
-    <sub><b>REMnux</b></sub>
-  </a>
-</td>
-</tr>
-</table>
+**Volatility 2/3** • **MemProcFS** • **FLARE-VM** • **REMnux**
 
 **Additional:** FTK Imager • Autopsy • Regshot • Detect It Easy • FLOSS • Timeline Analysis • IOC Extraction
 
@@ -252,38 +218,32 @@ Seeking to leverage SOC analysis and detection engineering skills to contribute 
 <tr>
 
 <td align="center" width="16%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"
-       width="48" height="48" alt="Windows 10/11"><br>
+  <img src="logos/windows-10.svg" width="48" height="48" alt="Windows 10/11"><br>
   <sub><b>Windows 10/11</b></sub>
 </td>
 
 <td align="center" width="16%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"
-       width="48" height="48" alt="Windows Server"><br>
+  <img src="logos/windows-10.svg" width="48" height="48" alt="Windows Server"><br>
   <sub><b>Windows Server</b></sub>
 </td>
 
 <td align="center" width="16%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"
-       width="48" height="48" alt="Ubuntu"><br>
+  <img src="logos/ubuntu.svg" width="48" height="48" alt="Ubuntu"><br>
   <sub><b>Ubuntu</b></sub>
 </td>
 
 <td align="center" width="16%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg"
-       width="48" height="48" alt="Kali Linux"><br>
+  <img src="logos/kali-linux-wordmark.svg" width="48" height="48" alt="Kali Linux"><br>
   <sub><b>Kali Linux</b></sub>
 </td>
 
 <td align="center" width="16%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg"
-       width="48" height="48" alt="PowerShell"><br>
+  <img src="logos/powershell.svg" width="48" height="48" alt="PowerShell"><br>
   <sub><b>PowerShell</b></sub>
 </td>
 
 <td align="center" width="16%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-       width="48" height="48" alt="Python"><br>
+  <img src="logos/python.svg" width="48" height="48" alt="Python"><br>
   <sub><b>Python</b></sub>
 </td>
 
@@ -295,73 +255,3 @@ Seeking to leverage SOC analysis and detection engineering skills to contribute 
 ### Security Frameworks & Investigation Skills
 
 **MITRE ATT&CK** • **NIST CSF / Incident Response** • **Alert Triage** • **5W1H Analysis** • **IOC Analysis** • **Timeline Reconstruction** • **Threat Hunting** • **Detection Analysis** • **Incident Documentation**
-
----
-
-## Certifications
-
-<table width="100%">
-
-<tr>
-
-<td align="center" width="33%">
-  <a href="https://www.giac.org/certifications/certified-incident-handler-gcih/">
-    <img src="landing-images/gcih.png" width="155" height="155" alt="GCIH">
-  </a>
-  <br><br>
-  <b>GIAC Certified Incident Handler</b>
-  <br>
-  <sub>GCIH</sub>
-</td>
-
-<td align="center" width="33%">
-  <a href="https://www.giac.org/certifications/security-essentials-gsec/">
-    <img src="landing-images/gsec.png" width="155" height="155" alt="GSEC">
-  </a>
-  <br><br>
-  <b>GIAC Security Essentials</b>
-  <br>
-  <sub>GSEC</sub>
-</td>
-
-<td align="center" width="33%">
-  <a href="https://www.giac.org/certifications/foundational-cybersecurity-technologies-gfact/">
-    <img src="landing-images/giac.png" width="155" height="155" alt="GFACT">
-  </a>
-  <br><br>
-  <b>GIAC Foundational Cybersecurity<br>Technologies</b>
-  <br>
-  <sub>GFACT</sub>
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="33%">
-  <a href="https://www.comptia.org/certifications/security">
-    <img src="landing-images/sec-plus.png" width="155" height="155" alt="CompTIA Security+">
-  </a>
-  <br><br>
-  <b>CompTIA Security+</b>
-</td>
-
-<td align="center" width="33%">
-  <a href="https://www.comptia.org/certifications/cybersecurity-analyst">
-    <img src="landing-images/cysa-plus.png" width="155" height="155" alt="CompTIA CySA+">
-  </a>
-  <br><br>
-  <b>CompTIA CySA+</b>
-</td>
-
-<td align="center" width="33%">
-  <a href="https://www.comptia.org/certifications/network">
-    <img src="landing-images/net-plus.png" width="155" height="155" alt="CompTIA Network+">
-  </a>
-  <br><br>
-  <b>CompTIA Network+</b>
-</td>
-
-</tr>
-
-</table>
