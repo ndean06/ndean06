@@ -18,9 +18,10 @@ Seeking to leverage SOC analysis and detection engineering skills to contribute 
 
 | Project | Focus Area | Skills Demonstrated |
 |---|---|---|
-| [SOC Automation 2.0](YOUR-SOC-AUTOMATION-2.0-REPO-LINK) | SOC Automation & AI-Assisted Alert Triage | Splunk, n8n, OpenAI, Slack, DFIR-IRIS, Threat Intelligence |
+| [SOC Automation 2.0](https://github.com/ndean06/soc-automation2-project) | SOC Automation & AI-Assisted Alert Triage | Splunk, n8n, OpenAI, Slack, DFIR-IRIS, Threat Intelligence |
 | [Microsoft 30-Day SOC Challenge](https://github.com/ndean06/Microsoft-30Day-SOC-Challenge) | Cloud Security Monitoring & Incident Response | Microsoft Sentinel, Defender XDR, Incident Response |
 | [SOAR + EDR Automation Lab](https://github.com/ndean06/soar-edr-incident-response) | Security Automation & EDR Response | SOAR, EDR, Alert Triage, Automated Response |
+
 
 
 ## Tools
