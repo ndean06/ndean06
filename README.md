@@ -34,28 +34,28 @@ Seeking to leverage SOC analysis and detection engineering skills to contribute 
 
 <td align="center" width="120">
   <a href="https://www.splunk.com/">
-    <img src="logos/splunk-green.svg" width="48" height="48" alt="Splunk"><br>
+    <img src="logos/splunk-green.svg" width="65" height="65" alt="Splunk"><br>
     <b>Splunk</b>
   </a>
 </td>
 
 <td align="center" width="120">
   <a href="https://learn.microsoft.com/en-us/azure/sentinel/">
-    <img src="logos/microsoft-sentinel.svg" width="48" height="48" alt="Microsoft Sentinel"><br>
+    <img src="logos/microsoft-sentinel.svg" width="65" height="65" alt="Microsoft Sentinel"><br>
     <b>Microsoft Sentinel</b>
   </a>
 </td>
 
 <td align="center" width="120">
   <a href="https://learn.microsoft.com/en-us/defender-xdr/">
-    <img src="logos/microsoft-defender.svg" width="48" height="48" alt="Microsoft Defender XDR"><br>
+    <img src="logos/microsoft-defender.svg" width="65" height="65" alt="Microsoft Defender XDR"><br>
     <b>Defender XDR</b>
   </a>
 </td>
 
 <td align="center" width="120">
   <a href="https://wazuh.com/">
-    <img src="logos/wazuh.svg" width="48" height="48" alt="Wazuh"><br>
+    <img src="logos/wazuh.svg" width="65" height="65" alt="Wazuh"><br>
     <b>Wazuh</b>
   </a>
 </td>
@@ -81,35 +81,35 @@ Seeking to leverage SOC analysis and detection engineering skills to contribute 
 
 <td align="center" width="120">
   <a href="https://n8n.io/">
-    <img src="logos/n8n.svg" width="48" height="48" alt="n8n"><br>
+    <img src="logos/n8n.svg" width="65" height="65" alt="n8n"><br>
     <b>n8n</b>
   </a>
 </td>
 
 <td align="center" width="120">
   <a href="https://www.dfir-iris.org/">
-    <img src="logos/dfir-iris.svg" width="48" height="48" alt="DFIR-IRIS"><br>
+    <img src="logos/dfir-iris.svg" width="65" height="65" alt="DFIR-IRIS"><br>
     <b>DFIR-IRIS</b>
   </a>
 </td>
 
 <td align="center" width="120">
   <a href="https://www.docker.com/">
-    <img src="logos/docker.svg" width="48" height="48" alt="Docker"><br>
+    <img src="logos/docker.svg" width="65" height="65" alt="Docker"><br>
     <b>Docker</b>
   </a>
 </td>
 
 <td align="center" width="120">
   <a href="https://openai.com/">
-    <img src="logos/openai.svg" width="48" height="48" alt="OpenAI"><br>
+    <img src="logos/openai.svg" width="65" height="65" alt="OpenAI"><br>
     <sub><b>AI-Assisted Triage</b></sub>
   </a>
 </td>
 
 <td align="center" width="120">
   <a href="https://slack.com/">
-    <img src="logos/slack.svg" width="48" height="48" alt="Slack"><br>
+    <img src="logos/slack.svg" width="65" height="65" alt="Slack"><br>
     <b>Slack</b>
   </a>
 </td>
@@ -128,34 +128,34 @@ Seeking to leverage SOC analysis and detection engineering skills to contribute 
 
 <td align="center" width="20%">
   <a href="https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon">
-    <img src="logos/windows-10.svg" width="48" height="48" alt="Sysmon"><br>
+    <img src="logos/windows-10.svg" width="65" height="65" alt="Sysmon"><br>
     <b>Sysmon</b>
   </a>
 </td>
 
 <td align="center" width="20%">
   <a href="https://learn.microsoft.com/en-us/sysinternals/downloads/procmon">
-    <img src="logos/windows-10.svg" width="48" height="48" alt="Process Monitor"><br>
+    <img src="logos/windows-10.svg" width="65" height="65" alt="Process Monitor"><br>
     <b>Process Monitor</b>
   </a>
 </td>
 
 <td align="center" width="20%">
   <a href="https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer">
-    <img src="logos/windows-10.svg" width="48" height="48" alt="Process Explorer"><br>
+    <img src="logos/windows-10.svg" width="65" height="65" alt="Process Explorer"><br>
     <b>Process Explorer</b>
   </a>
 </td>
 
 <td align="center" width="20%">
   <a href="https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns">
-    <img src="logos/windows-10.svg" width="48" height="48" alt="Autoruns"><br>
+    <img src="logos/windows-10.svg" width="65" height="65" alt="Autoruns"><br>
     <b>Autoruns</b>
   </a>
 </td>
 
 <td align="center" width="20%">
-  <img src="logos/windows-10.svg" width="48" height="48" alt="Windows Event Logs"><br>
+  <img src="logos/windows-10.svg" width="65" height="65" alt="Windows Event Logs"><br>
   <b>Windows Event Logs</b>
 </td>
 
@@ -171,29 +171,29 @@ Seeking to leverage SOC analysis and detection engineering skills to contribute 
 
 <td align="center" width="120">
   <a href="https://www.wireshark.org/">
-    <img src="logos/wireshark.png" width="48" height="48" alt="Wireshark"><br>
-    <sub><b>Wireshark</b></sub>
+    <img src="logos/wireshark.png" width="65" height="65" alt="Wireshark"><br>
+    <b>Wireshark</b>
   </a>
 </td>
 
 <td align="center" width="120">
   <a href="https://www.virustotal.com/">
-    <img src="logos/virustotal.svg" width="48" height="48" alt="VirusTotal"><br>
-    <sub><b>VirusTotal</b></sub>
+    <img src="logos/virustotal.svg" width="65" height="65" alt="VirusTotal"><br>
+    <b>VirusTotal</b>
   </a>
 </td>
 
 <td align="center" width="120">
   <a href="https://www.shodan.io/">
-    <img src="logos/shodan.svg" width="48" height="48" alt="Shodan"><br>
-    <sub><b>Shodan</b></sub>
+    <img src="logos/shodan.svg" width="65" height="65" alt="Shodan"><br>
+    <b>Shodan</b>
   </a>
 </td>
 
 <td align="center" width="120">
   <a href="https://www.kali.org/">
-    <img src="logos/kali-linux-wordmark.svg" width="48" height="48" alt="Kali Linux"><br>
-    <sub><b>Kali Linux</b></sub>
+    <img src="logos/kali-linux-wordmark.svg" width="65" height="65" alt="Kali Linux"><br>
+    <b>Kali Linux</b>
   </a>
 </td>
 
@@ -218,33 +218,33 @@ Seeking to leverage SOC analysis and detection engineering skills to contribute 
 <tr>
 
 <td align="center" width="16%">
-  <img src="logos/windows-10.svg" width="48" height="48" alt="Windows 10/11"><br>
-  <sub><b>Windows 10/11</b></sub>
+  <img src="logos/windows-10.svg" width="65" height="65" alt="Windows 10/11"><br>
+  <b>Windows 10/11</b>
 </td>
 
 <td align="center" width="16%">
-  <img src="logos/windows-10.svg" width="48" height="48" alt="Windows Server"><br>
-  <sub><b>Windows Server</b></sub>
+  <img src="logos/windows-10.svg" width="65" height="65" alt="Windows Server"><br>
+  <b>Windows Server</b>
 </td>
 
 <td align="center" width="16%">
-  <img src="logos/ubuntu.svg" width="48" height="48" alt="Ubuntu"><br>
-  <sub><b>Ubuntu</b></sub>
+  <img src="logos/ubuntu.svg" width="65" height="65" alt="Ubuntu"><br>
+  <b>Ubuntu</b>
 </td>
 
 <td align="center" width="16%">
-  <img src="logos/kali-linux-wordmark.svg" width="48" height="48" alt="Kali Linux"><br>
-  <sub><b>Kali Linux</b></sub>
+  <img src="logos/kali-linux-wordmark.svg" width="65" height="65" alt="Kali Linux"><br>
+  <b>Kali Linux</b>
 </td>
 
 <td align="center" width="16%">
-  <img src="logos/powershell.svg" width="48" height="48" alt="PowerShell"><br>
-  <sub><b>PowerShell</b></sub>
+  <img src="logos/powershell.svg" width="65" height="65" alt="PowerShell"><br>
+  <b>PowerShell</b>
 </td>
 
 <td align="center" width="16%">
-  <img src="logos/python.svg" width="48" height="48" alt="Python"><br>
-  <sub><b>Python</b></sub>
+  <img src="logos/python.svg" width="65" height="65" alt="Python"><br>
+  <b>Python</b>
 </td>
 
 </tr>
