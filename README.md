@@ -34,7 +34,7 @@ Seeking to leverage SOC analysis and detection engineering skills to contribute 
 
 <td align="center" width="120">
   <a href="https://www.splunk.com/">
-    <img src="logos/splunk-dark.svg" width="48" height="48" alt="Splunk"><br>
+    <img src="logos/splunk-green.svg" width="48" height="48" alt="Splunk"><br>
     <sub><b>Splunk</b></sub>
   </a>
 </td>
