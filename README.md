@@ -35,35 +35,35 @@ Seeking to leverage SOC analysis and detection engineering skills to contribute 
 <td align="center" width="120">
   <a href="https://www.splunk.com/">
     <img src="logos/splunk-green.svg" width="48" height="48" alt="Splunk"><br>
-    <sub><b>Splunk</b></sub>
+    <b>Splunk</b>
   </a>
 </td>
 
 <td align="center" width="120">
   <a href="https://learn.microsoft.com/en-us/azure/sentinel/">
     <img src="logos/microsoft-sentinel.svg" width="48" height="48" alt="Microsoft Sentinel"><br>
-    <sub><b>Microsoft Sentinel</b></sub>
+    <b>Microsoft Sentinel</b>
   </a>
 </td>
 
 <td align="center" width="120">
   <a href="https://learn.microsoft.com/en-us/defender-xdr/">
     <img src="logos/microsoft-defender.svg" width="48" height="48" alt="Microsoft Defender XDR"><br>
-    <sub><b>Defender XDR</b></sub>
+    <b>Defender XDR</b>
   </a>
 </td>
 
 <td align="center" width="120">
   <a href="https://wazuh.com/">
     <img src="logos/wazuh.svg" width="48" height="48" alt="Wazuh"><br>
-    <sub><b>Wazuh</b></sub>
+    <b>Wazuh</b>
   </a>
 </td>
 
 <td align="center" width="120">
   <a href="https://limacharlie.io/">
     <img src="logos/limacharlie.svg" width="90" height="90" alt="LimaCharlie"><br>
-    <sub><b>LimaCharlie</b></sub>
+    <b>LimaCharlie</b>
   </a>
 </td>
 
