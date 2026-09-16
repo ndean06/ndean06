@@ -233,7 +233,7 @@ Seeking to leverage SOC analysis and detection engineering skills to contribute 
 </td>
 
 <td align="center" width="16%">
-  <img src="logos/kali-linux-wordmark.svg" width="65" height="65" alt="Kali Linux"><br>
+  <img src="logos/kali-linux.svg" width="65" height="65" alt="Kali Linux"><br>
   <b>Kali Linux</b>
 </td>
 
